@@ -1,2 +1,3 @@
 # practicing vanilla Js to make:
-## Email front-end validation using Regular expression (RegEx) in Vanilla Javascript
+## front-end Email validation using Regular expression (RegEx) in Vanilla Javascript
+### Preview: https://yahya4242.github.io/Email-validation.github.io/
